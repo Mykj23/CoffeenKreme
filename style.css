@@ -6,7 +6,6 @@ header{
   text-align:left;
   max-height: 100%;
   max-width: 100%;
-
 }
 img{
   width:100%;
@@ -85,5 +84,5 @@ table#footer{
   width: 100%;
   background-color: rgba(159,161,163,.3);
   margin-top: 20px;
-  padding-top: 20px
+  padding-top: 20px;
 }
