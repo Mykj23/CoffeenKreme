@@ -1,99 +1,89 @@
+h1, h3{
+  font-family: 'Stint Ultra Expanded', cursive;
+  text-align: center
+}
+header{
+  text-align:left;
+  max-height: 100%;
+  max-width: 100%;
 
-    h1, h3{
-        font-family: 'Stint Ultra Expanded', cursive;
-        text-align: center
-        }
-        header{
-            text-align:left;
-            max-height: 100%;
-                max-width: 100%;
-                    
-        }
-        img{
-            width:100%;
-                margin-right:10px
-        }
-        #blog{
-            width:85%
-    
-    
 }
-        #title{
-            font-family: 'Stint Ultra Expanded', cursive;
-            width:20%
-        }
-        
-        .width{
-            width:20%;
-                padding-top:20px
-        }
-        
-        #main{
-            
-            
-                font-family: 'Pontano Sans', sans-serif;
-            width:60%;
-                background-color: rgba(159,161,163,.1)
-        }
-        
-        table{
-            text-align: center
-        }
-        .blank{
-            width:10%;
-                padding-top:20px
-        }
-        .middle{
-            width:80%
-        }
-        table#body{
-            text-align: center;
-                width: 100%
-        }
-        #cover{
-            position:absolute;
-                top:10%;
-            left:3%;
-                   
-                        background-color:rgba(159,161,163,.3);
-                            padding-left:5px;
-                                padding-right:5px
-                    
-        }
-        a:link{
-            text-decoration: none;
-                color:black
-        }
-        a:visited{
-            color:rgb(159,161,163)
-        }
-                a:hover
-  {
-    color:red;
-   text-decoration:overline;
-    cursor:pointer;
-      border: solid;
-      border-color: black;
-      border-width: 1px;
-          padding:10%;
-   }
-        a:active{
-            text-decoration: none;
-             cursor:pointer;
-      border: solid;
-      border-color: black;
-      border-width: 1px;
-          padding:10%
-        }
+img{
+  width:100%;
+  margin-right:10px
+}
+#blog{
+  width:85%
+}
+
+#title{
+  font-family: 'Stint Ultra Expanded', cursive;
+  width:20%
+}
+
+.width{
+  width:20%;
+  padding-top:20px
+}
+
+#main{
+  font-family: 'Pontano Sans', sans-serif;
+  width: 60%;
+  background-color: rgba(159,161,163,.1)
+}
+
+table{
+  text-align: center
+}
+.blank{
+  width: 10%;
+  padding-top: 20px;
+}
+.middle{
+  width: 80%
+}
+table#body{
+  text-align: center;
+  width: 100%
+}
+#cover{
+  position: absolute;
+  top: 10%;
+  left: 3%;
+
+  background-color:rgba(159,161,163,.3);
+  padding-left: 5px;
+  padding-right: 5px;
+}
+a:link{
+  text-decoration: none;
+  color: black;
+}
+a:visited{
+  color: rgb(159,161,163);
+}
+a:hover {
+  color: red;
+  text-decoration: overline;
+  cursor: pointer;
+  border: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 10%;
+}
+a:active{
+  text-decoration: none;
+  cursor: pointer;
+  border: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 10%;
+}
 table#footer{
-    z-index: 2;
-    bottom:0;
-    width:100%;
-    background-color: rgba(159,161,163,.3);
-        margin-top:20px;
-    padding-top:20px
-            
+  z-index: 2;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(159,161,163,.3);
+  margin-top: 20px;
+  padding-top: 20px
 }
-       
-        
-       
